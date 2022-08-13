@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,68 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi! I am Siteng Huang (黄思腾 in Chinese). I am a joint Ph.D. student of [Zhejiang University](http://www.zju.edu.cn/) and [Westlake University](https://www.westlake.edu.cn/), advised by Dr. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). And I am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) in Westlake University, where I do my research work on machine learning and robot learning. Currently, I am also a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
 
-A data-driven personal website
+<!-- Before coming to Westlake University, I obtained my bachelor's degree of Engineering from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/), majoring in Software Engineering. -->
+
+<!-- I am **seeking research intern opportunities in 2022** for solving challenging research problems in the domain of data-efficient learning. Please refer to my [CV (Chinese)](https://kyonhuang.top/files/SitengHuang-CV-cn.pdf) and feel free to drop me an email if you are interested! My email address is `huangsiteng [at] westlake.edu.cn`.
+{: .notice--warning} -->
+
+## Research Interests
+
+I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. Currently, my areas of interest include meta-learning, multi-task learning, and transfer learning on few/zero-shot learning tasks. I am also interested in deep learning, computer vision, and multimodal machine learning.
+
+## News
+
+* **[July 4, 2022]** One paper got accepted for ECCV 2022.
+* **[March 14, 2022]** Started as a research intern at DAMO Academy, Alibaba Group. 
+* **[January 22, 2022]** One paper got accepted for ICASSP 2022.
+* **[December 21, 2021]** [DSANet](https://kyonhuang.top/publication/dual-self-attention-network) has been cited 50 times according to [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&user=mhpkWSYAAAAJ&citation_for_view=mhpkWSYAAAAJ:u-x6o8ySG0sC)!
+* **[April 21, 2021]** One paper got accepted for ICMR 2021.
+* **[March 4, 2021]** One paper got accepted for CVPR 2021.
+* **[December 2, 2020]** [One paper about few-shot recognition](https://kyonhuang.top/publication/attributes-guided-attention-module) got accepted for AAAI 2021. Congratulations to all collaborators!
+
+**Service**: Always open to paper review, talk and organizing opportunities. Feel free to reach out to me if you are interested.
+{: .notice--info}
+
+<!-- Always open to research interns, cooperation and review opportunities. Feel free to reach out to me if you are interested. My email address is `huangsiteng [at] westlake.edu.cn`.
+{: .notice--info} -->
+
+**Hiring**: We are looking for **postdoctors, research assistants and visiting students for MiLAB** (currently only for Chinese). More information about requirements can be found [here](https://milab.westlake.edu.cn/contact.html), and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab [at] westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please specify in the email and also send a copy to me.
+{: .notice--info}
+
+<!-- Pre-prints
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+	
+* **Siteng Huang**, Min Zhang, Yachen Kang and Donglin Wang, &quot;[Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition](https://arxiv.org/abs/2009.04724)&quot;. *arXiv preprint arXiv:2009.04724*. -->
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## Publications
 
-Getting started
+* **Siteng Huang**, Donglin Wang, Xuehan Wu, Ao Tang, &quot;[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/abs/10.1145/3357384.3358132)&quot;. In *Proceedings of the 28th ACM International Conference on Information and Knowledge Management* (**CIKM 2019**). [[project page](https://kyonhuang.top/publication/dual-self-attention-network)] [[pdf](https://kyonhuang.top/files/DSANet/Huang-DSANet.pdf)] [[bib](https://kyonhuang.top/publication/dual-self-attention-network#bibtex)] [[code](https://github.com/bighuang624/DSANet)] [[poster](https://kyonhuang.top/files/DSANet/cikm19-DSANet-poster.pdf)] [[slide](https://kyonhuang.top/files/DSANet/cikm19-DSANet-presentation.pdf)]
+
+* **Siteng Huang**, Min Zhang, Yachen Kang, Donglin Wang, &quot;[Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/16957)&quot;. In *Proceedings of the 35th AAAI Conference on Artificial Intelligence* (**AAAI 2021**). [[project page](https://kyonhuang.top/publication/attributes-guided-attention-module)] [[arXiv](https://arxiv.org/abs/2009.04724)] [[bib](https://kyonhuang.top/publication/attributes-guided-attention-module#bibtex)] [[code](https://github.com/bighuang624/AGAM)] [[poster](https://kyonhuang.top/files/AGAM/aaai21-AGAM-poster.pdf)] [[slide](https://kyonhuang.top/files/AGAM/aaai21-AGAM-presentation.pdf)]
+
+* Zhengyu Chen, Jixie Ge, Heshen Zhan, **Siteng Huang**, Donglin Wang, &quot;[Pareto Self-Supervised Training for Few-Shot Learning](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Pareto_Self-Supervised_Training_for_Few-Shot_Learning_CVPR_2021_paper.html)&quot;. In *Proceedings of the 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR 2021**). [[arXiv](https://arxiv.org/abs/2104.07841)]
+
+* Zifeng Zhuang, Xintao Xiang, **Siteng Huang**, Donglin Wang, &quot;[HINFShot: A Challenge Dataset for Few-Shot Node Classification in Heterogeneous Information Network](https://dl.acm.org/doi/10.1145/3460426.3463614)&quot;. In *Proceedings of the 2021 International Conference on Multimedia Retrieval* (**ICMR 2021**). [[pdf](https://kyonhuang.top/files/HINFShot/ICMR21-HINFShot.pdf)]
+
+* Min Zhang, **Siteng Huang**, Donglin Wang, &quot;[Domain Generalized Few-shot Image Classification via Meta Regularization Network](https://ieeexplore.ieee.org/abstract/document/9747620)&quot;. In *Proceedings of the 2022 IEEE International Conference on Acoustics, Speech and Signal Processing* (**ICASSP 2022**). [[pdf](https://kyonhuang.top/files/MRN/ICASSP22-MRN.pdf)]
+
+* Min Zhang, **Siteng Huang**, Wenbin Li, Donglin Wang, &quot;Tree Structure-Aware Few-Shot Image Classification via Hierarchical Aggregation&quot;. In *Proceedings of the European Conference on Computer Vision 2022* (**ECCV 2022**). [[arXiv](https://arxiv.org/abs/2207.06989)]
+
+## Misc
+
+Welcome to follow my [Zhihu](https://www.zhihu.com/people/huang-si-teng-67) account and [Chinese blog](https://kyonhuang.top/blog/).
+
+
+<!-- Professional Services
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I am open to peer review and organizing chances in the field of meta learning, xx, and xx.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Invited Reviewer for [CVPR 2021](http://cvpr2021.thecvf.com/) -->
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<div align="middle">
+  <img align="middle" style="max-width: 300px; width: 100%; margin-right: 40px; margin-top: 10px" src="https://milab.westlake.edu.cn/images/logo.png" />
+  <img align="middle" style="max-width: 160px; width: 100%; margin-left: 20px; margin-top: 10px" src="https://raw.githubusercontent.com/bighuang624/pic-repo/master/color-zju-logo.png" />
+</div>
