@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Runze Yu"
 title_separator          : "-"
-name                     : &name "Runze Yu""
+name                     : &name "Runze Yu"
 description              : &description "Software Develpoer & Master"
 url                      : https://runzeyu1995.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
