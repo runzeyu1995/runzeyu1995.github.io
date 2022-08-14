@@ -22,35 +22,12 @@ my supervisor, [Jifeng Xuan](http://jifeng-xuan.com/) . For my graduate period,I
 I am interested in software testing, program analysis and the intersaction of AI and SE. In particular, I have received systemic scientic training during my master period. For example, I made a deep research in the purity analysis of Java methods. In this project,
 I use static program analysis and machine learning to solve a classic problem in the field of SE and apply the result to automatic test case generation. In details, I used Spoon to extract Java code features and improved the quality of auto-generated test cases by Randoop and EvoSuite. Another academic work is about purity reversals between continous projects, and I made a preliminary research on 10 famous
 Github projects and guaranteed the validity of auto-generated assertions for regression testing.
-<!-- ## News
-
-* **[July 4, 2022]** One paper got accepted for ECCV 2022.
-* **[March 14, 2022]** Started as a research intern at DAMO Academy, Alibaba Group. 
-* **[January 22, 2022]** One paper got accepted for ICASSP 2022.
-* **[December 21, 2021]** [DSANet](https://kyonhuang.top/publication/dual-self-attention-network) has been cited 50 times according to [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&user=mhpkWSYAAAAJ&citation_for_view=mhpkWSYAAAAJ:u-x6o8ySG0sC)!
-* **[April 21, 2021]** One paper got accepted for ICMR 2021.
-* **[March 4, 2021]** One paper got accepted for CVPR 2021.
-* **[December 2, 2020]** [One paper about few-shot recognition](https://kyonhuang.top/publication/attributes-guided-attention-module) got accepted for AAAI 2021. Congratulations to all collaborators!
-
-**Service**: Always open to paper review, talk and organizing opportunities. Feel free to reach out to me if you are interested.
-{: .notice--info} -->
-
-<!-- Always open to research interns, cooperation and review opportunities. Feel free to reach out to me if you are interested. My email address is `huangsiteng [at] westlake.edu.cn`.
-{: .notice--info} -->
-
-<!-- **Hiring**: We are looking for **postdoctors, research assistants and visiting students for MiLAB** (currently only for Chinese). More information about requirements can be found [here](https://milab.westlake.edu.cn/contact.html), and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab [at] westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please specify in the email and also send a copy to me.
-{: .notice--info} -->
-
-<!-- Pre-prints
-======
-	
-* **Siteng Huang**, Min Zhang, Yachen Kang and Donglin Wang, &quot;[Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition](https://arxiv.org/abs/2009.04724)&quot;. *arXiv preprint arXiv:2009.04724*. -->
 
 ## Publications
 
-* **Runze Yu**, Youzhe Zhang, Jifeng Xuan, &quot;[MetPurity: A Learning-Based Tool of Pure Method Identification for Automatic Test Generation.](https://ieeexplore.ieee.org/abstract/document/9286131)&quot;. In *https://ieeexplore.ieee.org/abstract/document/9286131* (**ASE 2020**). [[[pdf](https://runzeyu1995.github.io/files/ASEPublication-RunzeYu.pdf)]
+* **Runze Yu**, Youzhe Zhang, Jifeng Xuan, &quot;[MetPurity: A Learning-Based Tool of Pure Method Identification for Automatic Test Generation.](https://ieeexplore.ieee.org/abstract/document/9286131)&quot;. In *Proceedings of the International Conference on Automated Software Engineering, Tool Demo Track, 2020* (**ASE 2020**). [pdf](https://runzeyu1995.github.io/files/ASEPublication-RunzeYu.pdf)
 
-* **Runze Yu**, Xiaolu Yao, Jifeng Xuan, &quot;[Assertions in Intelligent Test Generation May Be Unreliable: A Study on Method Purity Changes in Java Releases] Under review [[[pdf](https://runzeyu1995.github.io/files/AnotherPaper-RunzeYu.pdf)]
+* **Runze Yu**, Xiaolu Yao, Jifeng Xuan, &quot;[Assertions in Intelligent Test Generation May Be Unreliable: A Study on Method Purity Changes in Java Releases] Under review [pdf](https://runzeyu1995.github.io/files/AnotherPaper-RunzeYu.pdf)
 <!-- ## Misc
 
 Welcome to follow my [Zhihu](https://www.zhihu.com/people/huang-si-teng-67) account and [Chinese blog](https://kyonhuang.top/blog/). -->
