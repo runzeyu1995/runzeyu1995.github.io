@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Siteng Huang (黄思腾 in Chinese). I am a joint Ph.D. student of [Zhejiang University](http://www.zju.edu.cn/) and [Westlake University](https://www.westlake.edu.cn/), advised by Dr. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). And I am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) in Westlake University, where I do my research work on machine learning and robot learning. Currently, I am also a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
+Hi! My name is Runze Yu (余润泽 in Chinese). I am currently a software developer in Alibaba. Before entering Alibaba, I made research in [CSTAR](http://cstar.whu.edu.cn/) lab and received my
+master degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2021 and under the guidance of
+my supervisor, [Jifeng Xuan](http://jifeng-xuan.com/) . For my graduate period,I got my B.Eng. Degree from School of Software, [Northwestern Polytechnical University](https://www.nwpu.edu.cn/) in 2018. Now, I am trying to applying for a Ph.D. position to continue my research career.
 
 <!-- Before coming to Westlake University, I obtained my bachelor's degree of Engineering from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/), majoring in Software Engineering. -->
 
@@ -17,9 +19,10 @@ Hi! I am Siteng Huang (黄思腾 in Chinese). I am a joint Ph.D. student of [Zhe
 
 ## Research Interests
 
-I am interested in technologies that allow machines and robots to learn like humans. In particular, I am committed to giving robots the ability to understand the world and learn from previous experiences, so that they can complete new tasks, acquire new skills or adapt to new environments rapidly with fewer samples through learning algorithms. Currently, my areas of interest include meta-learning, multi-task learning, and transfer learning on few/zero-shot learning tasks. I am also interested in deep learning, computer vision, and multimodal machine learning.
-
-## News
+I am interested in software testing, program analysis and the intersaction of AI and SE. In particular, I have received systemic scientic training during my master period. For example, I made a deep research in the purity analysis of Java methods. In this project,
+I use static program analysis and machine learning to solve a classic problem in the field of SE and apply the result to automatic test case generation. In details, I used Spoon to extract Java code features and improved the quality of auto-generated test cases by Randoop and EvoSuite. Another academic work is about purity reversals between continous projects, and I made a preliminary research on 10 famous
+Github projects and guaranteed the validity of auto-generated assertions for regression testing.
+<!-- ## News
 
 * **[July 4, 2022]** One paper got accepted for ECCV 2022.
 * **[March 14, 2022]** Started as a research intern at DAMO Academy, Alibaba Group. 
@@ -30,13 +33,13 @@ I am interested in technologies that allow machines and robots to learn like hum
 * **[December 2, 2020]** [One paper about few-shot recognition](https://kyonhuang.top/publication/attributes-guided-attention-module) got accepted for AAAI 2021. Congratulations to all collaborators!
 
 **Service**: Always open to paper review, talk and organizing opportunities. Feel free to reach out to me if you are interested.
-{: .notice--info}
+{: .notice--info} -->
 
 <!-- Always open to research interns, cooperation and review opportunities. Feel free to reach out to me if you are interested. My email address is `huangsiteng [at] westlake.edu.cn`.
 {: .notice--info} -->
 
-**Hiring**: We are looking for **postdoctors, research assistants and visiting students for MiLAB** (currently only for Chinese). More information about requirements can be found [here](https://milab.westlake.edu.cn/contact.html), and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab [at] westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please specify in the email and also send a copy to me.
-{: .notice--info}
+<!-- **Hiring**: We are looking for **postdoctors, research assistants and visiting students for MiLAB** (currently only for Chinese). More information about requirements can be found [here](https://milab.westlake.edu.cn/contact.html), and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab [at] westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please specify in the email and also send a copy to me.
+{: .notice--info} -->
 
 <!-- Pre-prints
 ======
@@ -45,21 +48,12 @@ I am interested in technologies that allow machines and robots to learn like hum
 
 ## Publications
 
-* **Siteng Huang**, Donglin Wang, Xuehan Wu, Ao Tang, &quot;[DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/abs/10.1145/3357384.3358132)&quot;. In *Proceedings of the 28th ACM International Conference on Information and Knowledge Management* (**CIKM 2019**). [[project page](https://kyonhuang.top/publication/dual-self-attention-network)] [[pdf](https://kyonhuang.top/files/DSANet/Huang-DSANet.pdf)] [[bib](https://kyonhuang.top/publication/dual-self-attention-network#bibtex)] [[code](https://github.com/bighuang624/DSANet)] [[poster](https://kyonhuang.top/files/DSANet/cikm19-DSANet-poster.pdf)] [[slide](https://kyonhuang.top/files/DSANet/cikm19-DSANet-presentation.pdf)]
+* **Runze Yu**, Youzhe Zhang, Jifeng Xuan, &quot;[MetPurity: A Learning-Based Tool of Pure Method Identification for Automatic Test Generation.](https://ieeexplore.ieee.org/abstract/document/9286131)&quot;. In *https://ieeexplore.ieee.org/abstract/document/9286131* (**ASE 2020**). [[[pdf](https://runzeyu1995.github.io/files/ASEPublication-RunzeYu.pdf)]
 
-* **Siteng Huang**, Min Zhang, Yachen Kang, Donglin Wang, &quot;[Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/16957)&quot;. In *Proceedings of the 35th AAAI Conference on Artificial Intelligence* (**AAAI 2021**). [[project page](https://kyonhuang.top/publication/attributes-guided-attention-module)] [[arXiv](https://arxiv.org/abs/2009.04724)] [[bib](https://kyonhuang.top/publication/attributes-guided-attention-module#bibtex)] [[code](https://github.com/bighuang624/AGAM)] [[poster](https://kyonhuang.top/files/AGAM/aaai21-AGAM-poster.pdf)] [[slide](https://kyonhuang.top/files/AGAM/aaai21-AGAM-presentation.pdf)]
+* **Runze Yu**, Xiaolu Yao, Jifeng Xuan, &quot;[Assertions in Intelligent Test Generation May Be Unreliable: A Study on Method Purity Changes in Java Releases] Under review [[[pdf](https://runzeyu1995.github.io/files/AnotherPaper-RunzeYu.pdf)]
+<!-- ## Misc
 
-* Zhengyu Chen, Jixie Ge, Heshen Zhan, **Siteng Huang**, Donglin Wang, &quot;[Pareto Self-Supervised Training for Few-Shot Learning](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Pareto_Self-Supervised_Training_for_Few-Shot_Learning_CVPR_2021_paper.html)&quot;. In *Proceedings of the 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR 2021**). [[arXiv](https://arxiv.org/abs/2104.07841)]
-
-* Zifeng Zhuang, Xintao Xiang, **Siteng Huang**, Donglin Wang, &quot;[HINFShot: A Challenge Dataset for Few-Shot Node Classification in Heterogeneous Information Network](https://dl.acm.org/doi/10.1145/3460426.3463614)&quot;. In *Proceedings of the 2021 International Conference on Multimedia Retrieval* (**ICMR 2021**). [[pdf](https://kyonhuang.top/files/HINFShot/ICMR21-HINFShot.pdf)]
-
-* Min Zhang, **Siteng Huang**, Donglin Wang, &quot;[Domain Generalized Few-shot Image Classification via Meta Regularization Network](https://ieeexplore.ieee.org/abstract/document/9747620)&quot;. In *Proceedings of the 2022 IEEE International Conference on Acoustics, Speech and Signal Processing* (**ICASSP 2022**). [[pdf](https://kyonhuang.top/files/MRN/ICASSP22-MRN.pdf)]
-
-* Min Zhang, **Siteng Huang**, Wenbin Li, Donglin Wang, &quot;Tree Structure-Aware Few-Shot Image Classification via Hierarchical Aggregation&quot;. In *Proceedings of the European Conference on Computer Vision 2022* (**ECCV 2022**). [[arXiv](https://arxiv.org/abs/2207.06989)]
-
-## Misc
-
-Welcome to follow my [Zhihu](https://www.zhihu.com/people/huang-si-teng-67) account and [Chinese blog](https://kyonhuang.top/blog/).
+Welcome to follow my [Zhihu](https://www.zhihu.com/people/huang-si-teng-67) account and [Chinese blog](https://kyonhuang.top/blog/). -->
 
 
 <!-- Professional Services
@@ -70,6 +64,6 @@ I am open to peer review and organizing chances in the field of meta learning, x
 Invited Reviewer for [CVPR 2021](http://cvpr2021.thecvf.com/) -->
 
 <div align="middle">
-  <img align="middle" style="max-width: 300px; width: 100%; margin-right: 40px; margin-top: 10px" src="https://milab.westlake.edu.cn/images/logo.png" />
-  <img align="middle" style="max-width: 160px; width: 100%; margin-left: 20px; margin-top: 10px" src="https://raw.githubusercontent.com/bighuang624/pic-repo/master/color-zju-logo.png" />
+  <img align="middle" style="max-width: 300px; width: 100%; margin-right: 40px; margin-top: 10px" src="https://runzeyu1995.github.io/images/whu.png" />
+  <img align="middle" style="max-width: 160px; width: 100%; margin-left: 20px; margin-top: 10px" src="https://runzeyu1995.github.io/images/alibaba.jpeg" />
 </div>
