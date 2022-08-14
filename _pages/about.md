@@ -12,11 +12,6 @@ Hi! My name is Runze Yu (余润泽 in Chinese). I am currently a software develo
 master degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2021 and under the guidance of
 my supervisor, [Jifeng Xuan](http://jifeng-xuan.com/) . For my graduate period,I got my B.Eng. Degree from School of Software, [Northwestern Polytechnical University](https://www.nwpu.edu.cn/) in 2018. Now, I am trying to applying for a Ph.D. position to continue my research career.
 
-<!-- Before coming to Westlake University, I obtained my bachelor's degree of Engineering from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/), majoring in Software Engineering. -->
-
-<!-- I am **seeking research intern opportunities in 2022** for solving challenging research problems in the domain of data-efficient learning. Please refer to my [CV (Chinese)](https://kyonhuang.top/files/SitengHuang-CV-cn.pdf) and feel free to drop me an email if you are interested! My email address is `huangsiteng [at] westlake.edu.cn`.
-{: .notice--warning} -->
-
 ## Research Interests
 
 I am interested in software testing, program analysis and the intersaction of AI and SE. In particular, I have received systemic scientic training during my master period. For example, I made a deep research in the purity analysis of Java methods. In this project,
