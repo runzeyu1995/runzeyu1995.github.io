@@ -2,7 +2,7 @@
 title: "Assertions in Intelligent Test Generation May Be Unreliable: A
 Study on Method Purity Changes in Java Releases"
 collection: publications
-permalink: /publication/Another
+permalink: /publication/another
 excerpt: '![](https://runzeyu1995.github.io/files/Another/structure.png) Intelligent test generation techniques, such as EvoSuite, rely on the
 identification of method purity. Method purity indicates whether
 executing a method is free of side effects. A method is pure if the
