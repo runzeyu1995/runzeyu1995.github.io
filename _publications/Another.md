@@ -1,4 +1,3 @@
-
 ---
 title: "Assertions in Intelligent Test Generation May Be Unreliable: A
 Study on Method Purity Changes in Java Releases"
