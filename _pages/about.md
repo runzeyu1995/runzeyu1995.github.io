@@ -20,11 +20,11 @@ Github projects and guaranteed the validity of auto-generated assertions for reg
 
 ## Publications
 
-* **Runze Yu**, Youzhe Zhang, Jifeng Xuan, &quot;[MetPurity: A Learning-Based Tool of Pure Method Identification for Automatic Test Generation.](https://ieeexplore.ieee.org/abstract/document/9286131)&quot;. In *Proceedings of the International Conference on Automated Software Engineering, Tool Demo Track, 2020* (**ASE 2020**). [pdf](https://runzeyu1995.github.io/files/ASEPublication-RunzeYu.pdf)
+* **Runze Yu**, Youzhe Zhang, Jifeng Xuan, &quot;[MetPurity: A Learning-Based Tool of Pure Method Identification for Automatic Test Generation.](https://ieeexplore.ieee.org/abstract/document/9286131)&quot;. In *Proceedings of the International Conference on Automated Software Engineering, Tool Demo Track, 2020* (**ASE 2020**). [pdf](https://yu-runze.github.io/files/ASEPublication-RunzeYu.pdf)
 
-* **Runze Yu**, Xiaolu Yao, Jifeng Xuan, &quot;[Assertions in Intelligent Test Generation May Be Unreliable: A Study on Method Purity Changes in Java Releases] Under review [pdf](https://runzeyu1995.github.io/files/AnotherPaper-RunzeYu.pdf)
+* **Runze Yu**, Xiaolu Yao, Jifeng Xuan, &quot;[Assertions in Intelligent Test Generation May Be Unreliable: A Study on Method Purity Changes in Java Releases] Under review [pdf](https://yu-runze.github.io/files/AnotherPaper-RunzeYu.pdf)
 
 <div align="middle">
-  <img align="middle" style="max-width: 300px; width: 100%; margin-right: 40px; margin-top: 10px" src="https://runzeyu1995.github.io/images/whu.png" />
-  <img align="middle" style="max-width: 160px; width: 100%; margin-left: 20px; margin-top: 10px" src="https://runzeyu1995.github.io/images/alibaba.jpeg" />
+  <img align="middle" style="max-width: 300px; width: 100%; margin-right: 40px; margin-top: 10px" src="https://yu-runze.github.io/images/whu.png" />
+  <img align="middle" style="max-width: 160px; width: 100%; margin-left: 20px; margin-top: 10px" src="https://yu-runze.github.io/images/alibaba.jpeg" />
 </div>

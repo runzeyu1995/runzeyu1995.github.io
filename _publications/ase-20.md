@@ -3,7 +3,7 @@ title: "MetPurity: A Learning-Based Tool of Pure Method Identification
 for Automatic Test Generation"
 collection: publications
 permalink: /publication/ase-20
-excerpt: '![](https://runzeyu1995.github.io/files/ASE/structure.png) In object-oriented programming, a method is pure if calling the
+excerpt: '![](https://yu-runze.github.io/files/ASE/structure.png) In object-oriented programming, a method is pure if calling the
 method does not change object states that exist in the pre-states
 of the method call. Pure methods are widely-used in automatic
 techniques, including test generation, compiler optimization, and
