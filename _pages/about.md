@@ -28,17 +28,6 @@ Github projects and guaranteed the validity of auto-generated assertions for reg
 * **Runze Yu**, Youzhe Zhang, Jifeng Xuan, &quot;[MetPurity: A Learning-Based Tool of Pure Method Identification for Automatic Test Generation.](https://ieeexplore.ieee.org/abstract/document/9286131)&quot;. In *Proceedings of the International Conference on Automated Software Engineering, Tool Demo Track, 2020* (**ASE 2020**). [pdf](https://runzeyu1995.github.io/files/ASEPublication-RunzeYu.pdf)
 
 * **Runze Yu**, Xiaolu Yao, Jifeng Xuan, &quot;[Assertions in Intelligent Test Generation May Be Unreliable: A Study on Method Purity Changes in Java Releases] Under review [pdf](https://runzeyu1995.github.io/files/AnotherPaper-RunzeYu.pdf)
-<!-- ## Misc
-
-Welcome to follow my [Zhihu](https://www.zhihu.com/people/huang-si-teng-67) account and [Chinese blog](https://kyonhuang.top/blog/). -->
-
-
-<!-- Professional Services
-======
-
-I am open to peer review and organizing chances in the field of meta learning, xx, and xx.
-
-Invited Reviewer for [CVPR 2021](http://cvpr2021.thecvf.com/) -->
 
 <div align="middle">
   <img align="middle" style="max-width: 300px; width: 100%; margin-right: 40px; margin-top: 10px" src="https://runzeyu1995.github.io/images/whu.png" />
